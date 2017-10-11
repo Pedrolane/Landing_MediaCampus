@@ -1,0 +1,77 @@
+body{
+  background: rgb(245,245,245);
+  color: black;
+  font-size: 16px;
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+}
+h1{
+  font-family: 'Manuale', serif;
+  color: #FF715B;
+  font-weight: bolder;
+  font-size: 50px;
+}
+h2 {
+  font-family: 'Manuale', serif;
+  color: rgb(50, 50, 50);
+  font-size: 35px;
+}
+a {
+  color: #FF715B;
+}
+a:hover {
+  text-decoration: none;
+  color: #82204A;
+}
+
+#banner {
+	background-image:url("http://unsplash.it/800/600");
+	background-size: cover;
+	padding: 150px;
+	text-align: center;
+	text-shadow: 1px 2px 3px black;
+
+}
+
+#banner p {
+	color: rgb(190,190,190);
+	font-size: 25px;
+	font-weight: lighter;
+	  opacity: 0.8;
+}
+
+#banner a {
+	font-size: 20px;
+}
+
+.card {
+
+	padding: 50px;
+	font-weight: lighter;
+}
+
+#footer {
+	background-color: black;
+	color: white;
+	padding: 30px;
+}
+
+#footer a {
+	color: pink;
+	font-size: 30px;
+}
+
+#footer a:hover {
+	color: #FF715B;
+}
+
+
+
+
+
+
+
+
+
+
+

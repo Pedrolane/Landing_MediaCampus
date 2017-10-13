@@ -65,7 +65,10 @@ a:hover {
 	color: #FF715B;
 }
 
-
+.cta {
+	background-color: #FF715B;
+	padding: 30px;
+}
 
 
 
